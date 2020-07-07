@@ -20,6 +20,9 @@
             </a>
             </div>
         </div>
+        <br>
+        <br>
+        <br>
     </div>
 </template>
 
@@ -32,7 +35,7 @@ export default {
 
 </script>
 
-<style media="screen">
+<style>
   
   .fondo {
   width: 100%;
